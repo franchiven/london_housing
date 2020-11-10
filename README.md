@@ -1,8 +1,10 @@
 # London-Housing
 
 ---Work in Progress---
+---Most updated notebook = time series keras 2---
 
 Multivariate Time Series Predictions of London House Prices
+
 
 ## Data
 - 34753 LSOA (Lower Super Output Area) of London,
